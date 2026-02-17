@@ -1,6 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning<br><br>Advanced Java (JDBC, Servlets, JSP, Spring Boot basics)<br>Backend development & REST APIs<br>Data Structures & problem-solving in Java<br><br>💬 Ask me about<br>Core & Advanced Java<br><br>Spring Boot basics and RESTful services<br>Flutter app development<br>MySQL & backend integration<br><br>Building real-world projects during internships<br>⚡ Fun fact<br><br>I started my journey with Java & JavaFX, moved to Flutter, and now I’m back mastering Advanced Java to become a strong backend engineer 💪<br>I’ve completed 3 Flutter internships, but Java is still my strongest skill 😄<br>I enjoy learning new tech while managing academics, internships, and projects
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__prasad_patil._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasad-zadokar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadzadokar25@gmail.com) 
